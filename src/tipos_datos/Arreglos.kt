@@ -6,4 +6,5 @@ fun main(parametro: Array<String>){
     for(i in arr.indices){
         arr[i] = readLine()!!.toInt()
     }
+    print(arr.max())
 }

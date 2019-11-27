@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c780ff5-188f-45fc-aee6-9d518faa13bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/condicionales/foreach.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funciones/Una_expresion.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tipos_datos/Arreglos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clases/Coche.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clases/Object2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculadoraClases/Op.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculadoraClases/Suma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/planteado/Reto1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/planteado/Reto2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/resuelto/Reto1_Resuelto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/resuelto/Reto2_Resuelto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones/lamdba.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/hour_of_code/META-INF/hour_of_code.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hour_of_code/META-INF/hour_of_code.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hour_of_code/condicionales/When_resueltoKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hour_of_code/condicionales/When_resueltoKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hour_of_code/tipos_datos/ArreglosKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hour_of_code/tipos_datos/ArreglosKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tipos_datos/Arreglos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tipos_datos/Arreglos.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,67 +61,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.condicionales.ForeachKt">
-    <configuration name="Una_expresion_extraKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Reto2_ResueltoKt">
+    <configuration name="Clases.ObjectKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="hour_of_code" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Una_expresion_extraKt" />
+      <option name="MAIN_CLASS_NAME" value="Clases.ObjectKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="condicionales.ForKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Reto2_ResueltoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="hour_of_code" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="condicionales.ForKt" />
+      <option name="MAIN_CLASS_NAME" value="Reto2_ResueltoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="condicionales.ForeachKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ejercicios.planteado.Reto1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="hour_of_code" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="condicionales.ForeachKt" />
+      <option name="MAIN_CLASS_NAME" value="ejercicios.planteado.Reto1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="condicionales.When_resueltoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ejercicios.resuelto.Reto1_ResueltoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="hour_of_code" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="condicionales.When_resueltoKt" />
+      <option name="MAIN_CLASS_NAME" value="ejercicios.resuelto.Reto1_ResueltoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="funciones.FuncionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="funciones.LamdbaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="hour_of_code" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="funciones.FuncionKt" />
+      <option name="MAIN_CLASS_NAME" value="funciones.LamdbaKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.condicionales.ForeachKt" />
-        <item itemvalue="Kotlin.Una_expresion_extraKt" />
-        <item itemvalue="Kotlin.funciones.FuncionKt" />
-        <item itemvalue="Kotlin.condicionales.When_resueltoKt" />
-        <item itemvalue="Kotlin.condicionales.ForKt" />
+        <item itemvalue="Kotlin.Reto2_ResueltoKt" />
+        <item itemvalue="Kotlin.funciones.LamdbaKt" />
+        <item itemvalue="Kotlin.ejercicios.resuelto.Reto1_ResueltoKt" />
+        <item itemvalue="Kotlin.ejercicios.planteado.Reto1Kt" />
+        <item itemvalue="Kotlin.Clases.ObjectKt" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +148,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574544550622</updated>
       <workItem from="1574544555395" duration="452000" />
-      <workItem from="1574545040359" duration="14191000" />
+      <workItem from="1574545040359" duration="26987000" />
     </task>
     <servers />
   </component>
